@@ -1,5 +1,5 @@
 ---
-title: Teatica is the best!
+title: Teatica!
 subtitle: Também ajuda a fazer um test-drive do Netlify para usar na Teática :)
 image: /img/home-jumbotron.jpg
 blurb:
